@@ -1,20 +1,9 @@
 # ArrowVortex - PIU Co-op
 
-> **Modded and maintained by:** **GreatMan**  
-> **Original Author:** Fietsemaker  
-
 ---
-# 🕺 ArrowVortex - PIU Co-op Edition (x64)
-> **Modded and maintained by:** **GreatMan**
-
----
-
-### 🚀 TẢI VỀ PHIÊN BẢN MỚI NHẤT:
-[![Download ZIP](https://img.shields.io/badge/TẢI_VỀ_NGAY-ArrowVortex_Coop_x64.zip-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/greatman765/ArrowVortex-Coop-Mod/releases/latest/download/ArrowVortex-Coop-v1.1-x64.zip)
-
 ## 🌟 Giới thiệu (Overview)
 
-Phiên bản ArrowVortex được tùy biến và nâng cấp bởi GreatMan, tối ưu chuyên biệt cho việc tạo và chỉnh sửa các chart **Pump It Up Co-op (2 đến 5 người chơi)** và **Routine mode**, giải quyết triệt để các hạn chế của bản gốc 2017.
+Phiên bản ArrowVortex được tùy biến và nâng cấp bởi GreatMan, tối ưu chuyên biệt cho việc tạo và chỉnh sửa các chart Pump It Up Co-op giải quyết triệt để các hạn chế của bản gốc 2017.
 
 ---
 
