@@ -4,6 +4,13 @@
 > **Original Author:** Fietsemaker  
 
 ---
+# 🕺 ArrowVortex - PIU Co-op Edition (x64)
+> **Modded and maintained by:** **GreatMan**
+
+---
+
+### 🚀 TẢI VỀ PHIÊN BẢN MỚI NHẤT:
+[![Download ZIP](https://img.shields.io/badge/TẢI_VỀ_NGAY-ArrowVortex_Coop_x64.zip-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/greatman765/ArrowVortex-Coop-Mod/releases/latest/download/ArrowVortex-Coop-v1.1-x64.zip)
 
 ## 🌟 Giới thiệu (Overview)
 
