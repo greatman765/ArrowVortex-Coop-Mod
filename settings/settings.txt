@@ -1,0 +1,82 @@
+general {
+  useMultithreading = yes
+  useVerticalSync = yes
+  defaultSaveFormat = sm
+}
+view {
+  backgroundStyle = stretch
+  showTempoHelp = no
+  useTimeBasedView = yes
+  useReverseScroll = no
+  useChartPreview = yes
+  customSnap = 20
+  zoomLevel = 9
+  scaleLevel = 4
+  receptorX = -9
+  receptorY = 192
+  previewOffset = 602
+  noteskinPrefs = Pump, Bar, Metal, Classic, Simple
+}
+interface {
+  fontPath = assets/NotoSansJP-Medium.ttf
+  fontSize = 13
+  windowMaximized = yes
+}
+statusbar {
+  showChart = yes
+  showSnap = yes
+  showBpm = yes
+  showRow = no
+  showBeat = no
+  showMeasure = yes
+  showHover = no
+  showTime = yes
+  showTimingMode = yes
+  myShowScroll = no
+  myShowSpeed = no
+}
+selection {
+  openTempoEditor = yes
+}
+editing {
+  useJumpToNextNote = no
+  useUndoRedoJumps = yes
+  useTimeBasedCopy = no
+  anchorVisualSync = cursor
+  anchorTempoEdit = cursor
+}
+waveform {
+  bgColor = 0, 0, 0, 1
+  waveColor = 0.4, 0.6, 0.4, 1
+  filterColor = 0.8, 0.8, 0.5, 1
+  luminance = uniform
+  waveStyle = rectified
+  antiAliasing = 1
+}
+notefield {
+  showWaveform = no
+  showBeatLines = yes
+  showBeatLinesSnap = no
+  showBeatLinesColor = no
+  showBeatLinesHover = no
+  showNotes = yes
+}
+preview {
+  enabled = no
+  beatlines = yes
+  reverse = no
+  fakeNotes = yes
+  fakeRegions = yes
+  useCrop = no
+  useCMOD = no
+  useXMOD = yes
+  cmod = 850
+  xmod = 4.5
+  mode = variable
+}
+audio {
+  musicVolume = 100
+  tickOffsetMs = 0
+}
+dialogs {
+}

@@ -1,0 +1,67 @@
+Texture-notes     = "tex notes coop.png"
+Texture-receptors = "tex receptors.png"
+Texture-glow      = "tex glow.png"
+
+Receptor { col=0; x=-120 }
+Receptor { col=1; x=-60 }
+Receptor { col=2; x=0 }
+Receptor { col=3; x=+60 }
+Receptor { col=4; x=+120 }
+
+Receptor-on { size=64,64 }
+Receptor-on { col=0; src=0,64 }
+Receptor-on { col=1; src=64,64 }
+Receptor-on { col=2; src=128,64 }
+Receptor-on { col=3; src=64,64; mirror=h }
+Receptor-on { col=4; src=0,64; mirror=h }
+
+Receptor-off { size=64,64 }
+Receptor-off { col=0; src=0,0 }
+Receptor-off { col=1; src=64,0 }
+Receptor-off { col=2; src=128,0 }
+Receptor-off { col=3; src=64,0; mirror=h }
+Receptor-off { col=4; src=0,0; mirror=h }
+
+Receptor-glow { size=96,96 }
+Receptor-glow { col=0; src=0,0 }
+Receptor-glow { col=1; src=96,0 }
+Receptor-glow { col=2; src=192,0 }
+Receptor-glow { col=3; src=96,0; mirror=h }
+Receptor-glow { col=4; src=0,0; mirror=h }
+
+Note { size=64,64 }
+Note { col=0; src=0,192 }
+Note { col=1; src=64,192 }
+Note { col=2; src=128,192 }
+Note { col=3; src=64,192; mirror=h }
+Note { col=4; src=0,192; mirror=h }
+
+Mine { size=64,64; src=192,192 }
+
+Hold-body { size=64,0 }
+Hold-body { col=0; y=-6; src=0,608 }
+Hold-body { col=1; y=+10; src=64,608 }
+Hold-body { col=2; src=128,608 }
+Hold-body { col=3; y=+10; src=64,608; mirror=h }
+Hold-body { col=4; y=-6; src=0,608; mirror=h }
+
+Hold-tail { size=64,64 }
+Hold-tail { col=0; src=0,640 }
+Hold-tail { col=1; src=64,640 }
+Hold-tail { col=2; src=128,640 }
+Hold-tail { col=3; mirror=h; src=64,640 }
+Hold-tail { col=4; mirror=h; src=0,640 }
+
+Roll-body { size=64,0 }
+Roll-body { col=0; y=-6; src=0,608 }
+Roll-body { col=1; y=+10; src=64,608 }
+Roll-body { col=2; src=128,608 }
+Roll-body { col=3; y=+10; src=64,608; mirror=h }
+Roll-body { col=4; y=-6; src=0,608; mirror=h }
+
+Roll-tail { size=64,64 }
+Roll-tail { col=0; src=0,640 }
+Roll-tail { col=1; src=64,640 }
+Roll-tail { col=2; src=128,640 }
+Roll-tail { col=3; mirror=h; src=64,640 }
+Roll-tail { col=4; mirror=h; src=0,640 }
