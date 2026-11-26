@@ -1,0 +1,17 @@
+# ArrowVortex Git Ignore
+# Logs & Temp files
+*.log
+ArrowVortex.log
+*.tmp
+temp_*.ssc
+
+# Build objects
+src/*.o
+src/av_coop_res.o
+
+# Backups & OS metadata
+*.bak
+.unused/
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,8 @@
+﻿Starting ArrowVortex :: Thu Nov 26 10:52:24 2026
+Build: Oct 30 2026
+
+creating window :: OK
+creating OpenGL context :: OK
+activating OpenGL context :: OK
+swap interval support :: OK
+shader support :: OK
